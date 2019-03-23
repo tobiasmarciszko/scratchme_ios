@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F52FF64D1C272C39007DB0BB /* lamb-152.png in Resources */ = {isa = PBXBuildFile; fileRef = F52FF64C1C272C39007DB0BB /* lamb-152.png */; };
+		F544F13B1C1C86A100678F9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F544F13A1C1C86A100678F9A /* AppDelegate.swift */; };
+		F544F13D1C1C86A100678F9A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F544F13C1C1C86A100678F9A /* ViewController.swift */; };
+		F544F1401C1C86A100678F9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F544F13E1C1C86A100678F9A /* Main.storyboard */; };
+		F544F1421C1C86A100678F9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F544F1411C1C86A100678F9A /* Assets.xcassets */; };
+		F544F1451C1C86A100678F9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F544F1431C1C86A100678F9A /* LaunchScreen.storyboard */; };
+		F544F1551C1C8FA000678F9A /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = F544F1541C1C8FA000678F9A /* next.png */; };
+		F544F1631C1C941700678F9A /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1561C1C941700678F9A /* 5.jpg */; };
+		F544F1641C1C941700678F9A /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1571C1C941700678F9A /* 6.jpg */; };
+		F544F1651C1C941700678F9A /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1581C1C941700678F9A /* 7.jpg */; };
+		F544F1661C1C941700678F9A /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1591C1C941700678F9A /* 8.jpg */; };
+		F544F1671C1C941700678F9A /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15A1C1C941700678F9A /* 9.jpg */; };
+		F544F1681C1C941700678F9A /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15B1C1C941700678F9A /* 10.jpg */; };
+		F544F1691C1C941700678F9A /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15C1C1C941700678F9A /* 11.jpg */; };
+		F544F16A1C1C941700678F9A /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15D1C1C941700678F9A /* 12.jpg */; };
+		F544F16B1C1C941700678F9A /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15E1C1C941700678F9A /* 13.jpg */; };
+		F544F16C1C1C941700678F9A /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F15F1C1C941700678F9A /* 4.jpg */; };
+		F544F16D1C1C941700678F9A /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1601C1C941700678F9A /* 3.jpg */; };
+		F544F16E1C1C941700678F9A /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1611C1C941700678F9A /* 1.jpg */; };
+		F544F16F1C1C941700678F9A /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F544F1621C1C941700678F9A /* 2.jpg */; };
+		F544F1711C1DCD4500678F9A /* lambs.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F544F1701C1DC6BD00678F9A /* lambs.mp4 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F52FF64C1C272C39007DB0BB /* lamb-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lamb-152.png"; sourceTree = "<group>"; };
+		F544F1371C1C86A100678F9A /* Scratch Me!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scratch Me!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F544F13A1C1C86A100678F9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F544F13C1C1C86A100678F9A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F544F13F1C1C86A100678F9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F544F1411C1C86A100678F9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F544F1441C1C86A100678F9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F544F1461C1C86A100678F9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F544F1541C1C8FA000678F9A /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		F544F1561C1C941700678F9A /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5.jpg; path = animals/5.jpg; sourceTree = "<group>"; };
+		F544F1571C1C941700678F9A /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 6.jpg; path = animals/6.jpg; sourceTree = "<group>"; };
+		F544F1581C1C941700678F9A /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 7.jpg; path = animals/7.jpg; sourceTree = "<group>"; };
+		F544F1591C1C941700678F9A /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 8.jpg; path = animals/8.jpg; sourceTree = "<group>"; };
+		F544F15A1C1C941700678F9A /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 9.jpg; path = animals/9.jpg; sourceTree = "<group>"; };
+		F544F15B1C1C941700678F9A /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 10.jpg; path = animals/10.jpg; sourceTree = "<group>"; };
+		F544F15C1C1C941700678F9A /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 11.jpg; path = animals/11.jpg; sourceTree = "<group>"; };
+		F544F15D1C1C941700678F9A /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 12.jpg; path = animals/12.jpg; sourceTree = "<group>"; };
+		F544F15E1C1C941700678F9A /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 13.jpg; path = animals/13.jpg; sourceTree = "<group>"; };
+		F544F15F1C1C941700678F9A /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 4.jpg; path = animals/4.jpg; sourceTree = "<group>"; };
+		F544F1601C1C941700678F9A /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3.jpg; path = animals/3.jpg; sourceTree = "<group>"; };
+		F544F1611C1C941700678F9A /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 1.jpg; path = animals/1.jpg; sourceTree = "<group>"; };
+		F544F1621C1C941700678F9A /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 2.jpg; path = animals/2.jpg; sourceTree = "<group>"; };
+		F544F1701C1DC6BD00678F9A /* lambs.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = lambs.mp4; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F544F1341C1C86A100678F9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F544F12E1C1C86A100678F9A = {
+			isa = PBXGroup;
+			children = (
+				F544F1391C1C86A100678F9A /* ScratchMe iOS */,
+				F544F1381C1C86A100678F9A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F544F1381C1C86A100678F9A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F544F1371C1C86A100678F9A /* Scratch Me!.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F544F1391C1C86A100678F9A /* ScratchMe iOS */ = {
+			isa = PBXGroup;
+			children = (
+				F544F13A1C1C86A100678F9A /* AppDelegate.swift */,
+				F544F13C1C1C86A100678F9A /* ViewController.swift */,
+				F544F13E1C1C86A100678F9A /* Main.storyboard */,
+				F544F1411C1C86A100678F9A /* Assets.xcassets */,
+				F544F1431C1C86A100678F9A /* LaunchScreen.storyboard */,
+				F544F1461C1C86A100678F9A /* Info.plist */,
+				F544F1561C1C941700678F9A /* 5.jpg */,
+				F544F1571C1C941700678F9A /* 6.jpg */,
+				F544F1581C1C941700678F9A /* 7.jpg */,
+				F544F1591C1C941700678F9A /* 8.jpg */,
+				F544F15A1C1C941700678F9A /* 9.jpg */,
+				F544F15B1C1C941700678F9A /* 10.jpg */,
+				F544F15C1C1C941700678F9A /* 11.jpg */,
+				F544F15D1C1C941700678F9A /* 12.jpg */,
+				F544F15E1C1C941700678F9A /* 13.jpg */,
+				F544F15F1C1C941700678F9A /* 4.jpg */,
+				F544F1601C1C941700678F9A /* 3.jpg */,
+				F544F1611C1C941700678F9A /* 1.jpg */,
+				F544F1621C1C941700678F9A /* 2.jpg */,
+				F52FF64C1C272C39007DB0BB /* lamb-152.png */,
+				F544F1541C1C8FA000678F9A /* next.png */,
+				F544F1701C1DC6BD00678F9A /* lambs.mp4 */,
+			);
+			path = "ScratchMe iOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F544F1361C1C86A100678F9A /* Scratch Me! */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F544F1491C1C86A100678F9A /* Build configuration list for PBXNativeTarget "Scratch Me!" */;
+			buildPhases = (
+				F544F1331C1C86A100678F9A /* Sources */,
+				F544F1341C1C86A100678F9A /* Frameworks */,
+				F544F1351C1C86A100678F9A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Scratch Me!";
+			productName = "ScratchMe iOS";
+			productReference = F544F1371C1C86A100678F9A /* Scratch Me!.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F544F12F1C1C86A100678F9A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "Tobias Marciszko";
+				TargetAttributes = {
+					F544F1361C1C86A100678F9A = {
+						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = 74C589M2HT;
+						LastSwiftMigration = 0820;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = F544F1321C1C86A100678F9A /* Build configuration list for PBXProject "ScratchMe iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F544F12E1C1C86A100678F9A;
+			productRefGroup = F544F1381C1C86A100678F9A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F544F1361C1C86A100678F9A /* Scratch Me! */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F544F1351C1C86A100678F9A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F544F1711C1DCD4500678F9A /* lambs.mp4 in Resources */,
+				F544F1641C1C941700678F9A /* 6.jpg in Resources */,
+				F544F1451C1C86A100678F9A /* LaunchScreen.storyboard in Resources */,
+				F544F1651C1C941700678F9A /* 7.jpg in Resources */,
+				F544F1681C1C941700678F9A /* 10.jpg in Resources */,
+				F544F1661C1C941700678F9A /* 8.jpg in Resources */,
+				F544F1551C1C8FA000678F9A /* next.png in Resources */,
+				F544F1691C1C941700678F9A /* 11.jpg in Resources */,
+				F544F16E1C1C941700678F9A /* 1.jpg in Resources */,
+				F544F16B1C1C941700678F9A /* 13.jpg in Resources */,
+				F544F16A1C1C941700678F9A /* 12.jpg in Resources */,
+				F544F16F1C1C941700678F9A /* 2.jpg in Resources */,
+				F544F16D1C1C941700678F9A /* 3.jpg in Resources */,
+				F544F1631C1C941700678F9A /* 5.jpg in Resources */,
+				F544F1421C1C86A100678F9A /* Assets.xcassets in Resources */,
+				F544F1671C1C941700678F9A /* 9.jpg in Resources */,
+				F544F16C1C1C941700678F9A /* 4.jpg in Resources */,
+				F544F1401C1C86A100678F9A /* Main.storyboard in Resources */,
+				F52FF64D1C272C39007DB0BB /* lamb-152.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F544F1331C1C86A100678F9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F544F13D1C1C86A100678F9A /* ViewController.swift in Sources */,
+				F544F13B1C1C86A100678F9A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F544F13E1C1C86A100678F9A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F544F13F1C1C86A100678F9A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F544F1431C1C86A100678F9A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F544F1441C1C86A100678F9A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F544F1471C1C86A100678F9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos9.1;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		F544F1481C1C86A100678F9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos9.1;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F544F14A1C1C86A100678F9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 74C589M2HT;
+				INFOPLIST_FILE = "ScratchMe iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TM.ScratchMe-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F544F14B1C1C86A100678F9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 74C589M2HT;
+				INFOPLIST_FILE = "ScratchMe iOS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "TM.ScratchMe-iOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F544F1321C1C86A100678F9A /* Build configuration list for PBXProject "ScratchMe iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F544F1471C1C86A100678F9A /* Debug */,
+				F544F1481C1C86A100678F9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F544F1491C1C86A100678F9A /* Build configuration list for PBXNativeTarget "Scratch Me!" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F544F14A1C1C86A100678F9A /* Debug */,
+				F544F14B1C1C86A100678F9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F544F12F1C1C86A100678F9A /* Project object */;
+}
